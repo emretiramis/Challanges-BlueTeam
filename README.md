@@ -8,6 +8,6 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- |
-| *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CHALLANGE#001-MaliciousDoc.md) |
+| *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CH-001-MaliciousDoc.md) |
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
