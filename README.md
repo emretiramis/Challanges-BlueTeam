@@ -8,8 +8,8 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- |
-| *Example: Web Shell Detection* | Log Analysis | IIS Logs, Regex, CyberChef | [📄 View Writeup](./writeups/webshell-detection.md) |
-| *Example: Malicious Memory* | Digital Forensics | Volatility, Memory Dump, Process Triage | [📄 View Writeup](./writeups/malicious-memory.md) |
-| *Example: Ransomware Activity* | Malware Analysis | Process Hacker, Static Analysis, Strings | [📄 View Writeup](./writeups/ransomware-activity.md) |
+| *Example: Web Shell Detection* | Log Analysis | [📄 View Writeup](./writeups/webshell-detection.md) |
+| *Example: Malicious Memory* | Digital Forensics | [📄 View Writeup](./writeups/malicious-memory.md) |
+| *Example: Ransomware Activity* | Malware Analysis | [📄 View Writeup](./writeups/ransomware-activity.md) |
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
