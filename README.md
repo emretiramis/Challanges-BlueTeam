@@ -1,4 +1,4 @@
-# Challanges-BlueTeam
+# 🕵️‍♂️ Challanges-BlueTeam
 This repository contains my detailed writeups and technical solutions for various Blue Team challenges. These challenges simulate complex, post-compromise scenarios that require deep-dive investigations, digital forensics, and proactive threat hunting to uncover advanced adversarial tactics.
 
 
