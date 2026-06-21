@@ -8,8 +8,8 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 1 | *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CH-001-MaliciousDoc.md) |
-| 2 | *Malicious VBA* | Security Analyst | [📄 View Writeup](./writeups/CH-002-MaliciousVBA.md) |
-| 3 | *Remote Working* | Security Analyst | [📄 View Writeup](./writeups/CH-003-RemoteWorking.md) |
+| 001 | *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CH-001-MaliciousDoc.md) |
+| 002 | *Malicious VBA* | Security Analyst | [📄 View Writeup](./writeups/CH-002-MaliciousVBA.md) |
+| 003 | *Remote Working* | Security Analyst | [📄 View Writeup](./writeups/CH-003-RemoteWorking.md) |
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
