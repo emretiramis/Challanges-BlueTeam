@@ -31,17 +31,17 @@ The purpose of learning the name under which Bitdefender detected the file is to
 
 
 
-3. How many files are dropped on the disk?
+## 3. How many files are dropped on the disk?
 The goal of this question is to determine how many different files the attacker created on the system after executing the malicious Excel file. The first file that appears in malware analysis (in this example, an XLS file) is often just the initial stage; the actual malicious payload may be left on disk as separate files without the user noticing. Therefore, dropped files analysis is crucial for understanding the scope of the attack, identifying malicious artifacts on the system, and establishing an IOC (Instance of Attack). For example, finding only the Excel file may not be sufficient in an attack; we need to identify the .exe, .dll, .vbs, or other files created by the malware and look for similar traces on affected systems. This question teaches us which files the attacker left behind after gaining access to the system and how extensive the attack was.
 <img width="1696" height="1233" alt="image" src="https://github.com/user-attachments/assets/d277fea6-6711-4f0e-9614-26c272968a9b" />
 
 
 
-4. What is the sha-256 hash of the file with emf extension it drops?
+## 4. What is the sha-256 hash of the file with emf extension it drops?
 <img width="1195" height="121" alt="image" src="https://github.com/user-attachments/assets/724ae79a-b294-45ee-b955-bb52786dea97" />
 
 
 
-5. What is the exact url to which the relevant file goes to download spyware?
+## 5. What is the exact url to which the relevant file goes to download spyware?
 The goal of this problem is to identify the address that the malicious Excel file communicates with to download spyware. In malware attacks, the Excel file itself is usually not directly malicious; its macro or script mechanism connects to a remote server specified by the attacker and downloads the second-stage payload. Finding this URL is important for understanding the infrastructure used by the attacker, the malware distribution method, and possible C2 communications. SOC teams can use such URLs as IOCs to search firewall, proxy, DNS, and SIEM logs; they can also identify other users who accessed the same malicious link.
 <img width="1535" height="231" alt="image" src="https://github.com/user-attachments/assets/8cb21809-a2d9-45db-80ae-6b500890633b" />
