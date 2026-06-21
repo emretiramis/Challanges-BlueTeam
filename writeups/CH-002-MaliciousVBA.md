@@ -5,6 +5,8 @@ Please, open the document in Notepad++ for security reasons unless you are runni
 
 Malicious Macro: /root/Desktop/ChallengeFiles/invoice.vb
 
+---
+
 <img width="1622" height="1010" alt="image" src="https://github.com/user-attachments/assets/b8ae1017-2627-4f2e-84f3-a10e7d15772c" />
 
 
