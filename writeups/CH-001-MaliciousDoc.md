@@ -5,6 +5,8 @@ Analyze malicious .doc file
 File: /root/Desktop/ChallengeFiles/factura.zip
 Password: infected
 
+---
+
 I extracted the zip file and got the md5 hash.
 <img width="1657" height="1020" alt="image" src="https://github.com/user-attachments/assets/d5e53885-94b0-43e2-945c-57e2317dac20" />
 <img width="1669" height="1051" alt="image" src="https://github.com/user-attachments/assets/06cb42bd-84a1-4df4-a7fb-9a658cd46974" />
