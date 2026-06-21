@@ -1,4 +1,4 @@
-## Port Scan Activity
+# Port Scan Activity
 Can you determine evidences of port scan activity?
 
 Log file: /root/Desktop/ChallengeFile/port_scan.pcap
