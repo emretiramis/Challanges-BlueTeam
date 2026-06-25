@@ -8,11 +8,13 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 001 | *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CH-001-MaliciousDoc.md) |
-| 002 | *Malicious VBA* | Security Analyst | [📄 View Writeup](./writeups/CH-002-MaliciousVBA.md) |
+| 006 | *Port Scan Activity* | DFIR | [📄 View Writeup](./writeups/CH-004-PortScanActivity.md) |
+| 005 | *Phishing Email* | Security Analyst | [📄 View Writeup](./writeups/CH-006-PhishingEmail.md) |
+| 004 | *Malicious VBA* | Security Analyst | [📄 View Writeup](./writeups/CH-002-MaliciousVBA.md) |
 | 003 | *Remote Working* | Security Analyst | [📄 View Writeup](./writeups/CH-003-RemoteWorking.md) |
-| 004 | *Port Scan Activity* | DFIR | [📄 View Writeup](./writeups/CH-004-PortScanActivity.md) |
-| 005 | *Shellshock Attack* | DFIR | [📄 View Writeup](./writeups/CH-005-ShellsockAttack.md) |
-| 006 | *Phishing Email* | Security Analyst | [📄 View Writeup](./writeups/CH-006-PhishingEmail.md) |
+| 002 | *Shellshock Attack* | DFIR | [📄 View Writeup](./writeups/CH-005-ShellsockAttack.md) |
+| 001 | *Malicious Doc* | Security Analyst | [📄 View Writeup](./writeups/CH-001-MaliciousDoc.md) |
+
+
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
