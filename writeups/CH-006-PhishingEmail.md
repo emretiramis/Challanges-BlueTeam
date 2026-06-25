@@ -26,10 +26,11 @@ yes, community has reports.
 
 
 5. What is the body SHA-256 of the domain?
-
+13945ecc33afee74ac7f72e1d5bb73050894356c4bf63d02a1a53e76830567f5
 
 <img width="1419" height="955" alt="image" src="https://github.com/user-attachments/assets/dda2362c-3768-4a69-ba61-e1b1ad9e4562" />
 
 
 
 6. Is this email a phishing email?
+Yes
