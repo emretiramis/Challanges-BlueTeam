@@ -13,5 +13,6 @@ The table below categorizes the challenges I have completed. Click on the link i
 | 003 | *Remote Working* | Security Analyst | [📄 View Writeup](./writeups/CH-003-RemoteWorking.md) |
 | 004 | *Port Scan Activity* | DFIR | [📄 View Writeup](./writeups/CH-004-PortScanActivity.md) |
 | 005 | *Shellshock Attack* | DFIR | [📄 View Writeup](./writeups/CH-005-ShellsockAttack.md) |
+| 006 | *Phishing Email* | Security Analyst | [📄 View Writeup](./writeups/CH-006-PhishingEmail.md) |
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
