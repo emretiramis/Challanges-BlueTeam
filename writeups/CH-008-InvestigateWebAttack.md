@@ -8,6 +8,7 @@ Challenge File: /root/Desktop/ChallengeFile/access.log
 ---
 
 1. Which automated scan tool did attacker use for web reconnaissance?
+The attacker used the Nikto automated scanning tool to discover the web server. This tool allowed for a rapid analysis of the target system's vulnerabilities, open directories, and potential attack surface.
 <img width="1600" height="1009" alt="image" src="https://github.com/user-attachments/assets/698eb4dd-a655-4dab-bc07-09bd29b1a709" />
 
 
@@ -22,7 +23,7 @@ after directory brute force, brute force attack starting for login page.
 
 
 4. Is the third attack successful?
-
+Yes, we can see the 302 redirect after 200s.
 <img width="1583" height="521" alt="image" src="https://github.com/user-attachments/assets/5c5c8d24-a027-41cf-9887-55694c0b149a" />
 
 
@@ -32,12 +33,12 @@ After successfully logined, attacker start code injection attack.
 
 
 6. What is the first payload for 4th attack?
-first command is "whoami"
+The first payload used in the fourth attack was the whoami command. This command was used to ascertain the identity of the current user on the target system and verify their ability to execute commands.
 <img width="1607" height="1017" alt="image" src="https://github.com/user-attachments/assets/99655a56-f7a0-4964-9084-1807a6bb4e0a" />
 
 
 7. Is there any persistency clue for the victim machine in the log file ? If yes, what is the related payload?
-
+Logs revealed attempts to add users to establish persistence in the system. Specifically, the payload containing the `useradd` command indicates that the attacker was trying to gain persistent access to the system.
 <img width="1605" height="1014" alt="image" src="https://github.com/user-attachments/assets/5e28859a-583c-4f04-b31c-daa90a2f6961" />
 when we decode it
 <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/bf5492a9-e698-451e-ae53-d71b74839e4e" />
