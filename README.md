@@ -8,6 +8,7 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
+| 008 | *Investigate Web Attack* | Security Analyst | [📄 View Writeup](./writeups/CH-008-InvestigateWebAttack.md) |
 | 007 | *Http Basic Auth* | Security Analyst | [📄 View Writeup](./writeups/CH-007-HttpBasicAuth.md) |
 | 006 | *Port Scan Activity* | DFIR | [📄 View Writeup](./writeups/CH-004-PortScanActivity.md) |
 | 005 | *Phishing Email* | Security Analyst | [📄 View Writeup](./writeups/CH-006-PhishingEmail.md) |
