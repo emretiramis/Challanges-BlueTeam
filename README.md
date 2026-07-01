@@ -8,8 +8,9 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 011 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
-| 010 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 012 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
+| 011 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 010 | *MSHTML - 0-Day* | Security Analyst | [📄 View Writeup](./writeups/CH-012-MSHTML.md) |
 | 009 | *Excel 4.0 Macros* | Security Analyst | [📄 View Writeup](./writeups/CH-011-Excel4Macros.md) |
 | 008 | *Investigate Web Attack* | Security Analyst | [📄 View Writeup](./writeups/CH-008-InvestigateWebAttack.md) |
 | 007 | *Http Basic Auth* | Security Analyst | [📄 View Writeup](./writeups/CH-007-HttpBasicAuth.md) |
@@ -23,3 +24,4 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
+
