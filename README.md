@@ -8,8 +8,9 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 009 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
-| 009 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 011 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
+| 010 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 009 | *Excel 4.0 Macros* | Security Analyst | [📄 View Writeup](./writeups/CH-011-Excel4Macros.md) |
 | 008 | *Investigate Web Attack* | Security Analyst | [📄 View Writeup](./writeups/CH-008-InvestigateWebAttack.md) |
 | 007 | *Http Basic Auth* | Security Analyst | [📄 View Writeup](./writeups/CH-007-HttpBasicAuth.md) |
 | 006 | *Port Scan Activity* | DFIR | [📄 View Writeup](./writeups/CH-004-PortScanActivity.md) |
