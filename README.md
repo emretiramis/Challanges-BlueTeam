@@ -8,8 +8,9 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 013 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
-| 012 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 014 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
+| 013 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
+| 012 | *Brute Force Attacks* | Security Analyst | [📄 View Writeup](./writeups/CH-014-BruteForceAttacks.md) |
 | 011 | *Disclose The Agent* | Security Analyst | [📄 View Writeup](./writeups/CH-013-DiscloseTheAgent.md) |
 | 010 | *MSHTML - 0-Day* | Security Analyst | [📄 View Writeup](./writeups/CH-012-MSHTML.md) |
 | 009 | *Excel 4.0 Macros* | Security Analyst | [📄 View Writeup](./writeups/CH-011-Excel4Macros.md) |
@@ -25,4 +26,3 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 
 *Note: This repository is updated regularly as I complete new challenges and expand my defensive security skillset.*
-
