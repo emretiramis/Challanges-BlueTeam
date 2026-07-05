@@ -43,7 +43,7 @@ File Password: infected
 
 
 
-8. What technique is used to gain access? (Answer Format: MitreID)
+## 8. What technique is used to gain access? (Answer Format: MitreID)
 
 
 
