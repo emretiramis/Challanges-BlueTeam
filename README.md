@@ -8,6 +8,7 @@ The table below categorizes the challenges I have completed. Click on the link i
 
 | No | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- | :--- |
+| 015 | *Pincode Cracking* | DFIR | [📄 View Writeup](./writeups/CH-015-PinCodeCrackme.md) |
 | 014 | *Dynamic Malware Analysis#2* | Security Analyst | [📄 View Writeup](./writeups/CH-010-DynamicMalwareAnalysis-2.md) |
 | 013 | *Dynamic Malware Analysis#1* | Security Analyst | [📄 View Writeup](./writeups/CH-009-DynamicMalwareAnalysis-1.md) |
 | 012 | *Brute Force Attacks* | Security Analyst | [📄 View Writeup](./writeups/CH-014-BruteForceAttacks.md) |
