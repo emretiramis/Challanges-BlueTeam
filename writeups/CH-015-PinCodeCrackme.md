@@ -239,4 +239,3 @@ Kullandığım yöntemi adım adım özetliyorum:
 
 ---
 
-*Bu writeup, eğitim amaçlı bir reverse engineering egzersizi kapsamında hazırlanmıştır.*
